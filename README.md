@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/WBCm1Jn.png" alt="Real virtuality"></a>
+ <img src="https://i.imgur.com/WBCm1Jn.png" alt="Real virtuality"></a>
 </p>
 
 <h3 align="center">AI Generated Nfts in a style of most popular artists</h3>
@@ -25,28 +25,24 @@ The idea of the project is to create a single page application that displays nft
 
 ### Installing <a name = "getting_started"></a>
 
-Say what the step will be
+Install packages using npm, the project will be running on Vite
 
 ```
-Give the example
+npm install
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
 Local deployment:
+
+```
 npm run dev
+```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [React](https://reactjs.org/) - SOA
 - [Vite](https://vitejs.dev/) - Rapid app building
 - [React-Bootstrap](https://react-bootstrap.github.io/) - Front end styling
+
 # nft-cards
