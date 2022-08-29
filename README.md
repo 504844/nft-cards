@@ -44,5 +44,3 @@ npm run dev
 - [React](https://reactjs.org/) - SOA
 - [Vite](https://vitejs.dev/) - Rapid app building
 - [React-Bootstrap](https://react-bootstrap.github.io/) - Front end styling
-
-# nft-cards
